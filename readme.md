@@ -39,3 +39,9 @@ https://github.com/bwssytems/ha-bridge
 Send xyz commands to Arduinos with HC12 that send RC Codes ... only decimal number and protocol
 
 _Pretty cool idea, huh?!_
+
+https://howtomechatronics.com/tutorials/arduino/arduino-and-hc-12-long-range-wireless-communication-module/
+
+---
+
+...
