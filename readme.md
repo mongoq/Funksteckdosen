@@ -15,3 +15,11 @@ to sort:
 https://www.hausautomatisierer.de/433-mhz-sniffer-mit-arduino-bauen
 
 http://www.hausautomatisierer.de/funk-baumarktsteckdosen-mit-arduino-steuern
+
+---
+
+**Alexa connection**
+
+https://github.com/thorsten-gehrig/alexa-remote-control
+
+https://blog.loetzimmer.de/2017/10/amazon-alexa-hort-auf-die-shell-echo.html
