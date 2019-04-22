@@ -31,3 +31,9 @@ https://github.com/thorsten-gehrig/alexa-remote-control
 https://blog.loetzimmer.de/2017/10/amazon-alexa-hort-auf-die-shell-echo.html
 
 https://github.com/bwssytems/ha-bridge
+
+**HC12 connection**
+
+Send xyz commands to Arduinos with HC12 that send RC Codes ... only decimal number and protocol
+
+_Pretty cool idea, huh?!_
