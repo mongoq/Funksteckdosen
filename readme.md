@@ -8,6 +8,8 @@ https://arduinobasics.blogspot.com/2014/06/433-mhz-rf-module-with-arduino-tutori
 
 Show Arduino Nano + Pin description (2 and 10)
 
+Extend range with 10V for FS1000A
+
 ---
 
 to sort:
